@@ -6,11 +6,5 @@ and straightforward to use thanks to React Hooks.
 ## Installation
 
 ```sh
-npm install --save material-confirm
-```
-
-or
-
-```sh
-yarn add material-confirm
+Still trying to remove additional package. don't use it
 ```
