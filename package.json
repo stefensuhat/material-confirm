@@ -54,7 +54,7 @@
     "material-ui-confirm"
   ],
   "author": "Stefen Suhat",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/stefensuhat/material-confirm/issues"
   },
